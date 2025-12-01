@@ -1,1 +1,1 @@
-# calculos __init__.py
+from .calculos import calculos
